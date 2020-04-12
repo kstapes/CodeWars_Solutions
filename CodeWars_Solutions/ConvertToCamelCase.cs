@@ -11,10 +11,8 @@ capitalized (known as Upper Camel Case, also often referred to as Pascal case).
 
 namespace CodeWars_Solutions
 {
-
     class ConvertToCamelCase
     {
-
         static void Main(string[] args)
         {
             Console.WriteLine(ToCamelCase("Hello_World-Baby_okay"));
