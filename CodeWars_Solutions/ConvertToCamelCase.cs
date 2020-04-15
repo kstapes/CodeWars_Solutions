@@ -8,7 +8,6 @@ The first word within the output should be capitalized only if the original word
 capitalized (known as Upper Camel Case, also often referred to as Pascal case).
 */
 
-
 namespace CodeWars_Solutions
 {
     class ConvertToCamelCase
